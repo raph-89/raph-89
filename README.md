@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working on the Data Analytics course at Spiced Academy<br>I'm looking to collaborate with classmates<br>I'm currently learning about Github itself
+Recent graduate of the Data Analytics Bootcamp at Spiced Academy in Berlin<br>
+Currently looking for job opportunities as a Junior Data Analyst<br>
+Keen to pratice and develop my skills<br>
+Feel free to reach out to me on Github or LinkedIn
 
 
 ## 🌐 Socials:
